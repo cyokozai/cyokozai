@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=cyokozai&langs_count=4&hide=javascript,typescript,html,css,java,jupyter%20notebook)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xpj57quut7dxwacnk2og4ro66a)
 [![GitHub Streak](https://streak-stats.demolab.com?user=cyokozai&theme=solarized-light&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j&mode=weekly&card_width=500)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyokozai&show_icons=true&count_private=true)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xpj57quut7dxwacnk2og4ro66a)
 
 <!--
 **cyokozai/cyokozai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
