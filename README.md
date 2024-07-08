@@ -1,4 +1,4 @@
-## Hi there 👋
+# cyokozai a.k.a 猪口才
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=cyokozai&langs_count=4&hide=javascript,typescript,html,css,java,jupyter%20notebook)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xpj57quut7dxwacnk2og4ro66a)
