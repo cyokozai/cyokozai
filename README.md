@@ -4,6 +4,7 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xpj57quut7dxwacnk2og4ro66a)
 [![GitHub Streak](https://streak-stats.demolab.com?user=cyokozai&theme=solarized-light&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j&mode=weekly&card_width=500)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyokozai&show_icons=true&count_private=true)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,kubernetes,docker,terraform,gcp,cloudflare,grafana,prometheus,go,py,arduino,c,git,github,vscode,md,latex&theme=light,perline=3)](https://skillicons.dev)
 
 <!--
 **cyokozai/cyokozai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
