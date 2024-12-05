@@ -1,13 +1,14 @@
 # cyokozai a.k.a 猪口才
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyokozai&show_icons=true&count_private=true)
-![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=cyokozai&langs_count=6&hide=javascript,typescript,html,css,jupyternotebook)  
+![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=cyokozai&langs_count=3&hide=javascript,typescript,html,css,jupyternotebook)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=cyokozai&theme=solarized-light&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j&mode=weekly&card_width=500)
 
 ---
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xpj57quut7dxwacnk2og4ro66a)  
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xpj57quut7dxwacnk2og4ro66a)
+![https://github-profile-apple-music.web.app/api/v1/users/QUeDRw6aHiFKPq19W1hI/recent/played/tracks?template=template_1_1](https://github-profile-apple-music.web.app/api/v1/users/QUeDRw6aHiFKPq19W1hI/recent/played/tracks?template=template_1_1)
+![https://github-profile-apple-music.web.app/api/v1/users/QUeDRw6aHiFKPq19W1hI/recent/played/tracks?template=template_3_1](https://github-profile-apple-music.web.app/api/v1/users/QUeDRw6aHiFKPq19W1hI/recent/played/tracks?template=template_3_1)
 ## About me
 
   > cyokozai is an undergraduate student at Chiba Institute of Technology, Japan, majoring in computer science.   
