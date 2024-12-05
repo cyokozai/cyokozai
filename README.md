@@ -4,7 +4,6 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xpj57quut7dxwacnk2og4ro66a)
 [![GitHub Streak](https://streak-stats.demolab.com?user=cyokozai&theme=solarized-light&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j&mode=weekly&card_width=500)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyokozai&show_icons=true&count_private=true)
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,kubernetes,docker,gcp,cloudflare,terraform,ansible,grafana,prometheus,go,julia,py,arduino,c,supabase,svelte,git,github,githubactions,vscode,md,latex&theme=light&perline=16)](https://skillicons.dev)
 
 ## About me
 
@@ -12,6 +11,8 @@
   > As a member of the Yamaguchi Lab, he focuses on evolutionary computation and is researching a novel genetic algorithm.   
   > His interests include IT infrastructure, SRE, and platform engineering, with a particular emphasis on cloud-native application operations.   
   > He also contributes to Nekko Cloud, a private cloud developed by a CS student community, where his home lab serves as a regional hub.  
+
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,kubernetes,docker,gcp,cloudflare,terraform,ansible,grafana,prometheus,go,julia,py,arduino,c,supabase,svelte,git,github,githubactions,vscode,md,latex&theme=light&perline=16)](https://skillicons.dev)
 
 <!--
 **cyokozai/cyokozai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
