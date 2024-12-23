@@ -1,8 +1,8 @@
 # cyokozai a.k.a 猪口才
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyokozai&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyokozai&show_icons=true&count_private=true)  
 ![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=cyokozai&langs_count=3&hide=javascript,typescript,html,css,jupyternotebook)  
-![GitHub Streak](https://streak-stats.demolab.com?user=cyokozai&theme=solarized-light&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j&mode=weekly&card_width=500)
+![GitHub Streak](https://streak-stats.demolab.com?user=cyokozai&theme=solarized-light&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j&mode=weekly&card_width=400)  
 
 ---
 
