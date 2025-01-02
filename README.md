@@ -13,14 +13,14 @@
 
 ## About me
 
-  > cyokozai is an undergraduate student at Chiba Institute of Technology, Japan, majoring in computer science.   
-  > As a member of the Yamaguchi Lab, he focuses on evolutionary computation and is researching a novel genetic algorithm.   
-  > His interests include IT infrastructure, SRE, and platform engineering, with a particular emphasis on cloud-native application operations.   
-  > He also contributes to Nekko Cloud, a private cloud developed by a CS student community, where his home lab serves as a regional hub.  
+  cyokozai is an undergraduate student at Chiba Institute of Technology, Japan, majoring in computer science.   
+  As a member of the Yamaguchi Lab, he focuses on evolutionary computation and is researching a novel genetic algorithm.   
+  His interests include IT infrastructure, SRE, and platform engineering, with a particular emphasis on cloud-native application operations.   
+  He also contributes to Nekko Cloud, a private cloud developed by a CS student community, where his home lab serves as a regional hub.  
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,kubernetes,docker,gcp,cloudflare,terraform,ansible,grafana,prometheus,go,julia,py,arduino,c,supabase,svelte,git,github,githubactions,vscode,md,latex&theme=light&perline=16)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,kubernetes,docker,gcp,cloudflare,terraform,ansible,grafana,prometheus,go,julia,py,c,arduino,processing,supabase,svelte,git,github,githubactions,vscode,md,latex&theme=light&perline=17)](https://skillicons.dev)
 
 <!--
 **cyokozai/cyokozai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
