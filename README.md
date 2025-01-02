@@ -20,7 +20,7 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,kubernetes,docker,gcp,cloudflare,terraform,ansible,grafana,prometheus,go,julia,py,c,arduino,processing,supabase,svelte,git,github,githubactions,vscode,md,latex&theme=light&perline=17)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,kubernetes,docker,gcp,cloudflare,terraform,ansible,grafana,prometheus,go,julia,py,c,arduino,processing,supabase,svelte,git,github,githubactions,vscode,md,latex&theme=light&perline=5)](https://skillicons.dev)
 
 <!--
 **cyokozai/cyokozai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
