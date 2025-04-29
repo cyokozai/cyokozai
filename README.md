@@ -13,7 +13,7 @@
 
 ## About me
 
-  cyokozai is an undergraduate student at Chiba Institute of Technology, Japan, majoring in computer science.   
+  cyokozai is an graduate student at Chiba Tech, Japan, majoring in computer science.   
   As a member of the Yamaguchi Lab, he focuses on evolutionary computation and is researching a novel genetic algorithm.   
   His interests include IT infrastructure, SRE, and platform engineering, with a particular emphasis on cloud-native application operations.   
   He also contributes to Nekko Cloud, a private cloud developed by a CS student community, where his home lab serves as a regional hub.  
