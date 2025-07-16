@@ -7,7 +7,7 @@
 ---
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xpj57quut7dxwacnk2og4ro66a)
-![https://github-profile-apple-music.web.app/api/v1/users/QUeDRw6aHiFKPq19W1hI/recent/played/tracks?template=template_1_1](https://github-profile-apple-music.web.app/api/v1/users/QUeDRw6aHiFKPq19W1hI/recent/played/tracks?template=template_1_1)
+<!--![https://github-profile-apple-music.web.app/api/v1/users/QUeDRw6aHiFKPq19W1hI/recent/played/tracks?template=template_1_1](https://github-profile-apple-music.web.app/api/v1/users/QUeDRw6aHiFKPq19W1hI/recent/played/tracks?template=template_1_1)-->
 <!--![https://github-profile-apple-music.web.app/api/v1/users/QUeDRw6aHiFKPq19W1hI/recent/played/tracks?template=template_3_1](https://github-profile-apple-music.web.app/api/v1/users/QUeDRw6aHiFKPq19W1hI/recent/played/tracks?template=template_3_1)
 -->
 
