@@ -3,10 +3,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyokozai&show_icons=true&count_private=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=cyokozai&langs_count=4&hide=tex,processing,javascript,typescript,html,css,jupyternotebook)  
 <!--![GitHub Streak](https://streak-stats.demolab.com?user=cyokozai&theme=solarized-light&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j&mode=weekly&card_width=400)-->
-
----
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xpj57quut7dxwacnk2og4ro66a)
 <!--![https://github-profile-apple-music.web.app/api/v1/users/QUeDRw6aHiFKPq19W1hI/recent/played/tracks?template=template_1_1](https://github-profile-apple-music.web.app/api/v1/users/QUeDRw6aHiFKPq19W1hI/recent/played/tracks?template=template_1_1)-->
 <!--![https://github-profile-apple-music.web.app/api/v1/users/QUeDRw6aHiFKPq19W1hI/recent/played/tracks?template=template_3_1](https://github-profile-apple-music.web.app/api/v1/users/QUeDRw6aHiFKPq19W1hI/recent/played/tracks?template=template_3_1)-->
 
@@ -20,6 +16,7 @@
 ---
 
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,kubernetes,docker,gcp,cloudflare,terraform,ansible,grafana,prometheus,go,julia,py,c,arduino,processing,supabase,svelte,git,github,githubactions,vscode,md,latex&theme=light&perline=5)](https://skillicons.dev)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xpj57quut7dxwacnk2og4ro66a)
 
 <!--
 **cyokozai/cyokozai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
