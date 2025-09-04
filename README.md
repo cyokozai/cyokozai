@@ -15,7 +15,7 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,kubernetes,docker,gcp,cloudflare,terraform,ansible,grafana,prometheus,go,julia,py,c,arduino,processing,supabase,svelte,git,github,githubactions,vscode,md,latex&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,kubernetes,docker,gcp,aws,cloudflare,terraform,ansible,grafana,prometheus,nginx,django,go,julia,py,c,arduino,processing,supabase,html,npm,wasm,git,github,githubactions,vscode,md,latex&theme=light&perline=5)](https://skillicons.dev)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xpj57quut7dxwacnk2og4ro66a)
 
 <!--
