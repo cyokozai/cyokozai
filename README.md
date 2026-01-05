@@ -5,18 +5,44 @@
 <!--![GitHub Streak](https://streak-stats.demolab.com?user=cyokozai&theme=solarized-light&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j&mode=weekly&card_width=400)-->
 <!--![https://github-profile-apple-music.web.app/api/v1/users/QUeDRw6aHiFKPq19W1hI/recent/played/tracks?template=template_1_1](https://github-profile-apple-music.web.app/api/v1/users/QUeDRw6aHiFKPq19W1hI/recent/played/tracks?template=template_1_1)-->
 <!--![https://github-profile-apple-music.web.app/api/v1/users/QUeDRw6aHiFKPq19W1hI/recent/played/tracks?template=template_3_1](https://github-profile-apple-music.web.app/api/v1/users/QUeDRw6aHiFKPq19W1hI/recent/played/tracks?template=template_3_1)-->
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xpj57quut7dxwacnk2og4ro66a)
 
 ## About me
 
-  cyokozai is an graduate student at Chiba Institute of Technorogy (Chiba Tech), Japan, majoring in computer science.   
-  As a member of the Yamaguchi Lab, he focuses on evolutionary computation and is researching a novel genetic algorithm.   
-  His interests include IT infrastructure, SRE, and platform engineering, with a particular emphasis on cloud-native application operations.   
-  He also contributes to Nekko Cloud, a private cloud developed by a CS student community, where his home lab serves as a regional hub.  
+cyokozai is an graduate student at Chiba Institute of Technorogy (Chiba Tech), Japan, majoring in computer science.   
+As a member of the Yamaguchi Lab, he focuses on evolutionary computation and is researching a novel genetic algorithm.   
+His interests include IT infrastructure, SRE, and platform engineering, with a particular emphasis on cloud-native application operations.   
+He also contributes to Nekko Cloud, a private cloud developed by a CS student community, where his home lab serves as a regional hub.  
 
----
+## My available resources or skills
 
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,kubernetes,docker,gcp,aws,cloudflare,terraform,ansible,grafana,prometheus,nginx,django,go,julia,py,c,arduino,processing,supabase,html,npm,wasm,git,github,githubactions,vscode,md,latex&theme=light&perline=5)](https://skillicons.dev)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xpj57quut7dxwacnk2og4ro66a)
+- OS
+
+  [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,debian,apple,windows&theme=light&perline=15)](https://skillicons.dev)
+
+- Tools
+
+  [![My Skills](https://skillicons.dev/icons?i=bash,py,npm,git,vscode,gmail&theme=light&perline=15)](https://skillicons.dev)
+
+- Middleware
+
+  [![My Skills](https://skillicons.dev/icons?i=nginx,nodejs,sqlite,wordpress&theme=light&perline=15)](https://skillicons.dev)
+
+- Languages
+
+  [![My Skills](https://skillicons.dev/icons?i=go,julia,ts,rust,c,arduino,processing,html,css,md,latex&theme=light&perline=15)](https://skillicons.dev)
+
+- Cloud Native tools
+
+  [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,grafana,prometheus&theme=light&perline=15)](https://skillicons.dev)
+
+- Cloud services
+
+  [![My Skills](https://skillicons.dev/icons?i=github,githubactions,gcp,aws,cloudflare&theme=light&perline=15)](https://skillicons.dev)
+
+- SNS
+
+  [![My Skills](https://skillicons.dev/icons?i=discord,twitter,linkedin,instagram,notion&theme=light&perline=15)](https://skillicons.dev)
 
 <!--
 **cyokozai/cyokozai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
