@@ -22,7 +22,7 @@ He also contributes to Nekko Cloud, a private cloud developed by a CS student co
 
 - Tools
 
-  [![My Skills](https://skillicons.dev/icons?i=bash,py,npm,git,vscode,gmail&theme=light&perline=15)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=bash,py,npm,git,vscode,gmail,notion&theme=light&perline=15)](https://skillicons.dev)
 
 - Middleware
 
@@ -42,7 +42,7 @@ He also contributes to Nekko Cloud, a private cloud developed by a CS student co
 
 - SNS
 
-  [![My Skills](https://skillicons.dev/icons?i=discord,twitter,linkedin,instagram,notion&theme=light&perline=15)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=discord,twitter,linkedin,instagram&theme=light&perline=15)](https://skillicons.dev)
 
 <!--
 **cyokozai/cyokozai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
