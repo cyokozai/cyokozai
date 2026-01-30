@@ -26,11 +26,11 @@ He also contributes to Nekko Cloud, a private cloud developed by a CS student co
 
 - Middleware
 
-  [![My Skills](https://skillicons.dev/icons?i=nginx,nodejs,sqlite,wordpress&theme=light&perline=15)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nginx,sqlite,wordpress&theme=light&perline=15)](https://skillicons.dev)
 
 - Languages
 
-  [![My Skills](https://skillicons.dev/icons?i=go,julia,ts,rust,c,arduino,processing,html,css,md,latex&theme=light&perline=15)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=go,julia,ts,rust,c,arduino,processing,md,latex&theme=light&perline=15)](https://skillicons.dev)
 
 - Cloud Native tools
 
