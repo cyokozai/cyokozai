@@ -1,4 +1,4 @@
-# cyokozai a.k.a 猪口才
+# cyokozai | 猪口才
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyokozai&show_icons=true&count_private=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=cyokozai&theme=buefy&langs_count=100&card_width=360&layout=compact&hide=tex,processing,html,css,jinja,Makefile,jupyternotebook,webassembly)  
