@@ -5,7 +5,7 @@
 <!--![GitHub Streak](https://streak-stats.demolab.com?user=cyokozai&theme=solarized-light&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j&mode=weekly&card_width=400)-->
 <!--![https://github-profile-apple-music.web.app/api/v1/users/QUeDRw6aHiFKPq19W1hI/recent/played/tracks?template=template_1_1](https://github-profile-apple-music.web.app/api/v1/users/QUeDRw6aHiFKPq19W1hI/recent/played/tracks?template=template_1_1)-->
 <!--![https://github-profile-apple-music.web.app/api/v1/users/QUeDRw6aHiFKPq19W1hI/recent/played/tracks?template=template_3_1](https://github-profile-apple-music.web.app/api/v1/users/QUeDRw6aHiFKPq19W1hI/recent/played/tracks?template=template_3_1)-->
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xpj57quut7dxwacnk2og4ro66a)
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31xpj57quut7dxwacnk2og4ro66a&theme=light&width=640&radius=12&avatar=0&unique=1&duration=1&album=1&footer=wave)
 
 ## About me
 
