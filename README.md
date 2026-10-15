@@ -14,6 +14,17 @@ As a member of the Yamaguchi Lab, he focuses on evolutionary computation and is 
 His interests include IT infrastructure, SRE, and platform engineering, with a particular emphasis on cloud-native application operations.   
 He also contributes to Nekko Cloud, a private cloud developed by a CS student community, where his home lab serves as a regional hub.  
 
+**Infrastructure as a Smile**
+
+---
+
+千葉工業大学で情報科学を専攻する修士2年生  
+CloudNativeやSRE/Platform Engineeringの界隈によくいます  
+学業の傍らカンファレンスの運営にも携わっております  
+自室のラックサーバと添い寝して5年目、趣味はDJと御朱印集め  
+
+- 座右の銘: **今ハタダ、深ク静カニセンコウセヨ**  
+
 ## My available resources or skills
 
 - OS
