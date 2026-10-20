@@ -41,7 +41,7 @@ CloudNativeやSRE/Platform Engineeringの界隈によくいます
 
 - Languages
 
-  [![My Skills](https://skillicons.dev/icons?i=go,julia,ts,rust,c,arduino,processing,md,latex&theme=light&perline=15)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=go,julia,ts,rust,c,arduino,processing,haskell,md,latex&theme=light&perline=15)](https://skillicons.dev)
 
 - Cloud Native tools
 
