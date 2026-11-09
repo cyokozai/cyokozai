@@ -23,7 +23,7 @@ CloudNativeやSRE/Platform Engineeringの界隈によくいます
 学業の傍らカンファレンスの運営にも携わっております  
 自室のラックサーバと添い寝して5年目、趣味はDJと御朱印集め  
 
-- 座右の銘: **今ハタダ、深ク静カニセンコウセヨ**  
+- 座右の銘: **今ハタダ、深ク静カニ センコウ セヨ**  
 
 ## My available resources or skills
 
